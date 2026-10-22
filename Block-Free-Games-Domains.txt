@@ -37,6 +37,7 @@ poki.dk
 poki.fi
 poki.gr
 poki.homes
+poki.io
 poki.it
 poki.jp
 poki.nl
