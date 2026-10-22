@@ -17,6 +17,7 @@ paisdelosjuegos.com.uy
 paisdelosjuegos.cr
 paisdelosjuegos.es
 playgama.com
+playhop.com
 po-ki.pro
 poki-cdn.com
 poki.ac
@@ -49,3 +50,4 @@ poki.se
 poki.to
 poki.uk.com
 trochoi.net
+yandex.com
