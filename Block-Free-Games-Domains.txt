@@ -18,6 +18,7 @@ paisdelosjuegos.cr
 paisdelosjuegos.es
 playgama.com
 po-ki.pro
+poki-cdn.com
 poki.ac
 poki.ae
 poki.at
